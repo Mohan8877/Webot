@@ -8,7 +8,7 @@ A Flask-based backend that powers the webot Converter using RAG (Retrieval-Augme
 - **RAG System**: Retrieval-Augmented Generation for accurate answers
 - **Multi-Language Support**: English, Hindi, and Telugu
 - **Vector Search**: FAISS-based similarity search for relevant content retrieval
-- **Google Gemini Integration**: Powered by Gemini 1.5 Flash for fast responses
+- **Google Gemini Integration**: Powered by Gemini 2.5 Flash for fast responses
 
 ## Prerequisites
 

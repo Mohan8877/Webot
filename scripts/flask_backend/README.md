@@ -1,4 +1,4 @@
-# Website-to-Chatbot Converter - Flask Backend
+# Webot - Flask Backend
 
 A Flask-based backend that powers the Website-to-Chatbot Converter using RAG (Retrieval-Augmented Generation) with Google Gemini AI.
 

@@ -1,6 +1,6 @@
 import { type NextRequest, NextResponse } from "next/server"
 
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY || "AIzaSyD08gm7BiteeIVSfM8DzM4qpVbeoAJAMsc"
+const GEMINI_API_KEY = process.env.GEMINI_API_KEY
 
 // Simple similarity search using keyword matching
 function findRelevantChunks(query: string, chunks: string[], topK = 3): string[] {

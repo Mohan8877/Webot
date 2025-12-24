@@ -1,22 +1,22 @@
-# 🤖 Webot – Website Intelligence AI
+#  Webot – Website Intelligence AI
 
 Webot is an AI-powered website intelligence chatbot that converts any public website into an interactive question-answering assistant.  
 By simply providing a website URL, Webot analyzes the content and allows users to ask questions and receive accurate, easy-to-understand answers.
 
 ---
 
-## 🚀 Features
+##  Features
 
-- 🌐 Analyze any public website using its URL  
-- 🤖 AI-powered chatbot for instant responses  
-- 🔍 Deep content understanding and retrieval  
-- 💬 Clean and interactive user interface  
-- 🔐 User login system to store chat history  
-- ⚡ Fast and intelligent responses using AI models  
+-  Analyze any public website using its URL  
+-  AI-powered chatbot for instant responses  
+-  Deep content understanding and retrieval  
+-  Clean and interactive user interface  
+-  User login system to store chat history  
+-  Fast and intelligent responses using AI models  
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
 ### Homepage
 <p align="center">
@@ -209,41 +209,41 @@ npm run dev
 5️⃣ Open in browser
 Copy code
 http://localhost:3000
-🔑 Environment Variables
+ Environment Variables
 Create a .env file in the root directory and add:
 
 env
 Copy code
 GEMINI_API_KEY=your_gemini_api_key_here
 📌 Project Status
-🚧 Under Active Development
+ Under Active Development
 This project is currently being improved with new features and optimizations.
 
 🎯 Future Enhancements
-🌍 Multi-language chatbot support
+ Multi-language chatbot support
 
-📚 Advanced RAG (Retrieval-Augmented Generation)
+ Advanced RAG (Retrieval-Augmented Generation)
 
-📊 User chat analytics dashboard
+ User chat analytics dashboard
 
-✨ Improved UI animations
+ Improved UI animations
 
-☁️ Cloud deployment
+ Cloud deployment
 
-👨‍💻 Author
+ Author
 Mohan
-B.Tech Student | AI & Web Development Enthusiast
+B.Tech Student RGUKT-RKV
 
 GitHub: https://github.com/Mohan8877
 
-⭐ Support & Contribution
+ Support & Contribution
 If you like this project:
 
 ⭐ Star the repository
 
-🍴 Fork it
+ Fork it
 
-🧠 Share feedback or suggestions
+ Share feedback or suggestions
 
 Contributions are always welcome!
 

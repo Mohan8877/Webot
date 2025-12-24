@@ -20,17 +20,17 @@ By simply providing a website URL, Webot analyzes the content and allows users t
 
 ### Homepage
 <p align="center">
-  <img src="images/homepage.png" width="700" alt="Webot Homepage">
+  <img src="public/home.png" width="700" alt="Webot Homepage">
 </p>
 
 ### Chat Interface
 <p align="center">
-  <img src="images/chatbot.png" width="700" alt="Webot Chat Interface">
+  <img src="public/chat.png" width="700" alt="Webot Chat Interface">
 </p>
 
-### User Dashboard
+### Working Procedure
 <p align="center">
-  <img src="images/dashboard.png" width="700" alt="Webot Dashboard">
+  <img src="public/works.png" width="700" alt="Webot Dashboard">
 </p>
 
 ---

@@ -2,9 +2,7 @@
 
 Webot is an AI-powered website intelligence chatbot that converts any public website into an interactive question-answering assistant.  
 By simply providing a website URL, Webot analyzes the content and allows users to ask questions and receive accurate, easy-to-understand answers.
-<p align="center">
-  <img src="public/logo.png" width="500">
-</p>
+
 ---
 
 ## 🚀 Features

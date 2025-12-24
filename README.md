@@ -96,7 +96,6 @@ bash
 Copy code
 npm run dev
 5️⃣ Open in browser
-arduino
 Copy code
 http://localhost:3000
 🔑 Environment Variables
@@ -137,19 +136,7 @@ If you like this project:
 
 Contributions are always welcome!
 
-📜 License
-This project is licensed under the MIT License.
 
-yaml
-Copy code
 
----
 
-## ✅ Final Steps (Important)
 
-After pasting:
-
-```bash
-git add README.md images
-git commit -m "Add complete README with screenshots"
-git push

@@ -20,17 +20,17 @@ By simply providing a website URL, Webot analyzes the content and allows users t
 
 ### Homepage
 <p align="center">
-  <img src="public/home.png" width="700" alt="Webot Homepage">
+  <img src="public/home.png" width="500" alt="Webot Homepage" align="left">
 </p>
 
 ### Chat Interface
 <p align="center">
-  <img src="public/chat.png" width="700" alt="Webot Chat Interface">
+  <img src="public/chat.png" width="500" alt="Webot Chat Interface" align="left">>
 </p>
 
 ### Working Procedure
 <p align="center">
-  <img src="public/works.png" width="700" alt="Webot Dashboard">
+  <img src="public/works.png" width="500" align="left">>
 </p>
 
 ---
@@ -52,7 +52,7 @@ By simply providing a website URL, Webot analyzes the content and allows users t
 ---
 
 ## 📂 Project Structure
-```bash
+```
 
 Webot.
 ├── app
@@ -184,66 +184,59 @@ Webot.
 └── tsconfig.json
 
 
-yaml
-Copy code
+```
 
 ---
 
-## ⚙️ Installation & Setup
+##  Installation & Setup
 
-### 1️⃣ Clone the repository
-```bash
+ 1️⃣ Clone the repository
+```
 git clone https://github.com/Mohan8877/Webot.git
+```
 2️⃣ Navigate to the project folder
-bash
-Copy code
+```
 cd Webot
+```
 3️⃣ Install dependencies
-bash
-Copy code
+```
 npm install
+```
 4️⃣ Run the development server
-bash
-Copy code
+```
 npm run dev
+```
 5️⃣ Open in browser
-Copy code
+```
 http://localhost:3000
- Environment Variables
-Create a .env file in the root directory and add:
+```
+Environment Variables:
 
-env
-Copy code
+Create a .env file in the root directory and add:
+```
 GEMINI_API_KEY=your_gemini_api_key_here
+```
 📌 Project Status
  Under Active Development
 This project is currently being improved with new features and optimizations.
 
-🎯 Future Enhancements
+Future Enhancements:
  Multi-language chatbot support
-
  Advanced RAG (Retrieval-Augmented Generation)
-
  User chat analytics dashboard
-
  Improved UI animations
-
  Cloud deployment
-
+ 
  Author
-Mohan
-B.Tech Student RGUKT-RKV
+   Mohan-B.Tech Student RGUKT-RKV
 
-GitHub: https://github.com/Mohan8877
+ GitHub:``` https://github.com/Mohan8877```
 
- Support & Contribution
-If you like this project:
-
-⭐ Star the repository
-
- Fork it
-
- Share feedback or suggestions
+ Support & Contribution:
+    If you like this project:
+           Star the repository
+           Fork it
+           Share feedback or suggestions
 
 Contributions are always welcome!
 

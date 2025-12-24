@@ -52,6 +52,7 @@ By simply providing a website URL, Webot analyzes the content and allows users t
 ---
 
 ## 📂 Project Structure
+```bash
 
 Webot/
 ├── app/

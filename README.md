@@ -215,30 +215,42 @@ http://localhost:3000
 
 Create a .env file in the root directory and add:
 ```
-GEMINI_API_KEY=your_gemini_api_key_here
+      GEMINI_API_KEY=your_gemini_api_key_here
 ```
 ---
-##📌 Project Status
- Under Active Development
-This project is currently being improved with new features and optimizations.
+ Project Status:
+ 
+     Under Active Development
+    This project is currently being improved with new features and optimizations.
+    
 ---
-##
+
 Future Enhancements:
- Multi-language chatbot support
- Advanced RAG (Retrieval-Augmented Generation)
- User chat analytics dashboard
- Improved UI animations
- Cloud deployment
+
+     Multi-language chatbot support
+     Advanced RAG (Retrieval-Augmented Generation)
+     User chat analytics dashboard
+     Improved UI animations
+     Cloud deployment
  ---
- ##
- Author
-   Mohan-B.Tech Student RGUKT-RKV
+ 
+ Author:
+ 
+     Mohan-B.Tech Student RGUKT-RKV
+
+  
 ---
-##
- GitHub:``` https://github.com/Mohan8877```
+
+ GitHub:
+ ``` 
+ 
+ https://github.com/Mohan8877
+ 
+ ```
 ---
-##
+
  Support & Contribution:
+ 
     If you like this project:
            Star the repository
            Fork it

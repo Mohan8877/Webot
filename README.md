@@ -25,7 +25,7 @@
 
 ### Chat Interface
 <p align="left">
-  <img src="public/chat.png" width="500" alt="Webot Chat Interface" >>
+  <img src="public/chat.png" width="500" alt="Webot Chat Interface">
 </p>
 
 ### Working Procedure
@@ -188,7 +188,7 @@ Webot.
 
 ---
 
-##  Installation & Setup
+Installation & Setup
 
  1️⃣ Clone the repository
 ```
@@ -211,7 +211,7 @@ npm run dev
 http://localhost:3000
 ```
 ---
-##Environment Variables:
+Environment Variables:
 
 Create a .env file in the root directory and add:
 ```
@@ -227,11 +227,11 @@ Create a .env file in the root directory and add:
 
 Future Enhancements:
 
-     Multi-language chatbot support
-     Advanced RAG (Retrieval-Augmented Generation)
-     User chat analytics dashboard
-     Improved UI animations
-     Cloud deployment
+   -Multi-language chatbot support
+   -Advanced RAG (Retrieval-Augmented Generation)
+   -User chat analytics dashboard
+   -Improved UI animations
+   -Cloud deployment
  ---
  
  Author:
@@ -251,12 +251,11 @@ Future Enhancements:
 
  Support & Contribution:
  
-    If you like this project:
-           Star the repository
-           Fork it
-           Share feedback or suggestions
+   If you like this project:
+           -Star the repository
+           -Fork it
+           -Share feedback or suggestions
 ---
-##
 Contributions are always welcome!
 
 

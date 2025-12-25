@@ -220,18 +220,18 @@ Create a .env file in the root directory and add:
 ---
  Project Status:
  
-     Under Active Development
-    This project is currently being improved with new features and optimizations.
+   Under Active Development
+  This project is currently being improved with new features and optimizations.
     
 ---
 
-Future Enhancements:
+ Future Enhancements:
 
-   -Multi-language chatbot support
-   -Advanced RAG (Retrieval-Augmented Generation)
-   -User chat analytics dashboard
-   -Improved UI animations
-   -Cloud deployment
+   - Multi-language chatbot support
+   - Advanced RAG (Retrieval-Augmented Generation)
+   - User chat analytics dashboard
+   - Improved UI animations
+   - Cloud deployment
  ---
  
  Author:
@@ -251,7 +251,7 @@ Future Enhancements:
 
  Support & Contribution:
  
-   If you like this project:
+    If you like this project:
            -Star the repository
            -Fork it
            -Share feedback or suggestions

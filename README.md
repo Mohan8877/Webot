@@ -250,10 +250,10 @@ Under Active Development
 ---
 ### Support & Contribution:
  
-   If you like this project:
-           -Star the repository
-           -Fork it
-           -Share feedback or suggestions
+  If you like this project:
+ - Star the repository
+ - Fork it
+ - Share feedback or suggestions
 ---
 Contributions are always welcome!
 

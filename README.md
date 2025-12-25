@@ -1,4 +1,4 @@
-#  Webot – Website Intelligence AI
+#  🤖Webot – Website Intelligence AI
 
  Webot is an AI-powered website intelligence chatbot that converts any public website into an interactive question-answering assistant.  
  By simply providing a website URL, Webot analyzes the content and allows users to ask questions and receive accurate, easy-to-understand answers.
@@ -43,11 +43,12 @@
 - Tailwind CSS  
 
 **Backend**
-- Node.js  
+- Node.js
+- Flask  
 - API Routes  
 
 **AI Integration**
-- Google Gemini API  
+- Google Gemini API [gemini-2.5-flash,gemini-2....etc.,] 
 
 ---
 
@@ -220,8 +221,8 @@ Create a .env file in the root directory and add:
 ---
 ### Project Status:
  
-Under Active Development
-  This project is currently being improved with new features and optimizations.
+   - Under Active Development,
+   - This project is currently being improved with new features and optimizations.
     
 ---
 

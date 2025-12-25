@@ -188,7 +188,7 @@ Webot.
 
 ---
 
-Installation & Setup
+### Installation & Setup
 
  1️⃣ Clone the repository
 ```
@@ -211,21 +211,21 @@ npm run dev
 http://localhost:3000
 ```
 ---
-Environment Variables:
+### Environment Variables:
 
 Create a .env file in the root directory and add:
 ```
       GEMINI_API_KEY=your_gemini_api_key_here
 ```
 ---
- Project Status:
+### Project Status:
  
-   Under Active Development
+Under Active Development
   This project is currently being improved with new features and optimizations.
     
 ---
 
- Future Enhancements:
+ ### Future Enhancements:
 
    - Multi-language chatbot support
    - Advanced RAG (Retrieval-Augmented Generation)
@@ -234,24 +234,23 @@ Create a .env file in the root directory and add:
    - Cloud deployment
  ---
  
- Author:
+ ### Author:
  
      Mohan-B.Tech Student RGUKT-RKV
 
   
 ---
 
- GitHub:
+ ### GitHub:
  ``` 
  
  https://github.com/Mohan8877
  
  ```
 ---
-
- Support & Contribution:
+### Support & Contribution:
  
-    If you like this project:
+   If you like this project:
            -Star the repository
            -Fork it
            -Share feedback or suggestions
